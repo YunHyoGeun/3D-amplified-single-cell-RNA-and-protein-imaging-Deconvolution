@@ -10,3 +10,9 @@ You have to download "DeconvolutionLab_2" for MATLAB in here, https://bigwww.epf
 
 
 ![image](https://github.com/YunHyoGeun/3D-amplified-single-cell-RNA-and-protein-imaging-Deconvolution/assets/74758420/87c720ad-7e58-48dd-ac5f-17a005bfd0ac)
+
+under picture is the setting of deconvolution PSF generator
+
+you can choose any algorithm what you want
+
+![image](https://github.com/YunHyoGeun/3D-amplified-single-cell-RNA-and-protein-imaging-Deconvolution/assets/74758420/38e38616-53ec-4149-98d1-05deddea821e)
